@@ -1,0 +1,20 @@
+import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
+
+Color white = Colors.white;
+Color black = Colors.black;
+Color transparent = Colors.transparent;
+Color yellow = Color.fromRGBO(253, 190, 17, 1);
+Color blue = Color.fromRGBO(12, 31, 69, 1);
+Color seaBlue = Color.fromRGBO(64, 123, 215, 1);
+Color deepBlue = Color.fromRGBO(36, 53, 88, 1);
+Color fieldGrey = Color.fromRGBO(239, 239, 239, 1);
+Color inputGrey = Color.fromRGBO(12, 31, 69, 1);
+Color lightBlue = Color.fromRGBO(125, 155, 250, 0.8);
+Color red = Color.fromRGBO(187, 5, 5, 1);
+Color green = Color.fromRGBO(11, 143, 63, 1);
+Color backgroundBlack = Color.fromRGBO(23, 30, 38, 1);
+Color hoverBlack = Color.fromRGBO(31, 38, 48, 1);
+Color greyOfBlack = Color.fromRGBO(158, 180, 250, 0.8).withOpacity(0.1);
+Color dropShadow = Color.fromRGBO(80, 62, 62, 20);
+Color scaffoldColor = Color.fromRGBO(243, 246, 249, 1);
